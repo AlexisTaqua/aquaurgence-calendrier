@@ -7,7 +7,7 @@ X-WR-CALNAME:Aqua-Urgence Formations
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:aquaurgence-session-45@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260813
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 16h — Guylaine Racine
@@ -16,7 +16,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-18@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260820
 SUMMARY:Havre-St-Pierre — Secouriste en milieu de travail — 17h (+ Niveau C) — Alexis L-Tremblay
@@ -25,7 +25,7 @@ LOCATION:Havre-St-Pierre
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-38@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260822
 SUMMARY:Havre-St-Pierre — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -34,7 +34,7 @@ LOCATION:Havre-St-Pierre
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-22@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260828
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 16h — Guylaine Racine
@@ -43,7 +43,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-23@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260903
 SUMMARY:Manic 5 — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -52,7 +52,7 @@ LOCATION:Manic 5
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-3@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260904
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 17h (+ Niveau C) — Guylaine Racine
@@ -61,7 +61,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-37@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260905
 SUMMARY:Forestville — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -70,7 +70,7 @@ LOCATION:Forestville
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-6@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260910
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -79,7 +79,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-16@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260911
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 16h — Guylaine Racine
@@ -88,7 +88,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-25@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Port-Cartier — Maintient de compétences Premier-Répondant — Alexis L-Tremblay
@@ -97,7 +97,7 @@ LOCATION:Port-Cartier
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-27@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Port-Cartier — Maintient de compétences Premier-Répondant — Alexis L-Tremblay
@@ -106,7 +106,7 @@ LOCATION:Port-Cartier
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-12@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260917
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 17h (+ Niveau C) — Guylaine Racine
@@ -115,7 +115,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-7@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260918
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 16h
@@ -124,7 +124,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-8@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 16h
@@ -133,7 +133,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-40@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20261003
 SUMMARY:Activité — Alexis L-Tremblay
@@ -141,7 +141,7 @@ DESCRIPTION:Formateur : Alexis L-Tremblay\\nNotes : iles de la Madelaine
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-14@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260924
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 16h — Guylaine Racine
@@ -150,7 +150,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-15@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260930
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 17h (+ Niveau C) — Guylaine Racine
@@ -159,7 +159,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-9@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261007
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 17h (+ Niveau C) — Alexis L-Tremblay
@@ -168,7 +168,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-24@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261008
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 16h — Guylaine Racine
@@ -177,7 +177,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-13@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261009
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 17h (+ Niveau C) — Alexis L-Tremblay
@@ -186,7 +186,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-4@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261016
 SUMMARY:Tadoussac — Secouriste en milieu de travail — 17h (+ Niveau C) — Alexis L-Tremblay
@@ -195,7 +195,7 @@ LOCATION:Tadoussac
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-10@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261022
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -204,7 +204,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-5@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
 SUMMARY:Forestville — Secouriste en milieu de travail — 17h (+ Niveau C) — Alexis L-Tremblay
@@ -213,7 +213,7 @@ LOCATION:Forestville
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-35@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261031
 SUMMARY:Tadoussac — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -222,7 +222,7 @@ LOCATION:Tadoussac
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-1@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261105
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -231,7 +231,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-32@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -240,7 +240,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-29@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261111
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 16h — Guylaine Racine
@@ -249,7 +249,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-17@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261121
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 16h — Guylaine Racine
@@ -258,7 +258,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-20@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261119
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -267,7 +267,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-21@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261121
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 17h (+ Niveau C) — Alexis L-Tremblay
@@ -276,7 +276,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-36@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261126
 SUMMARY:Forestville — Secouriste en milieu de travail — 16h — Alexis L-Tremblay
@@ -285,7 +285,7 @@ LOCATION:Forestville
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-43@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Les Escoumins — Cardio-secours RCR DEA Niveau C — Alexis L-Tremblay
@@ -294,7 +294,7 @@ LOCATION:Les Escoumins
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-42@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Port-Cartier — SIR — Soins immédiats en réanimation — Alexis L-Tremblay
@@ -303,7 +303,7 @@ LOCATION:Port-Cartier
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-41@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261203
 SUMMARY:Sept-Îles — Secouriste en milieu de travail — 16h
@@ -312,7 +312,7 @@ LOCATION:Sept-Îles
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-30@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261210
 SUMMARY:Baie-Comeau — Secouriste en milieu de travail — 16h — Guylaine Racine
@@ -321,7 +321,7 @@ LOCATION:Baie-Comeau
 END:VEVENT
 BEGIN:VEVENT
 UID:aquaurgence-session-39@aquaurgence.com
-DTSTAMP:20260911T215838Z
+DTSTAMP:20260911T222838Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20270105
 SUMMARY:Activité — Alexis L-Tremblay
